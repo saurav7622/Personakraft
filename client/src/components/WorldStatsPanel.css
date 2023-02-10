@@ -1,0 +1,7 @@
+.rightContainer {
+  position: absolute;
+  left: 1%;
+  width: 55%;
+  height: 100%;
+  background: linear-gradient(#0882df, #11e9ff);
+}
